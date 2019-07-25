@@ -1,1 +1,1 @@
-# Global-Poverty-Analysis-Through-Data-Vizualizations
+# Global-Poverty-Analysis-Through-Data-Visualizations
